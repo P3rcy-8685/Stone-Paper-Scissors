@@ -2,7 +2,7 @@ import random
 A,B=0,0
 restart="Yes"
 def new(A,B):
-    '''For restart, set up the score board again'''
+    '''For restart, set up the score again'''
     A=0
     B=0
     return A,B
